@@ -1,8 +1,4 @@
 # SQL-server-with-power-BI
 [![YouTube Video](https://img.youtube.com/vi/Y-rgoAdg7mA/0.jpg)](https://youtu.be/Y-rgoAdg7mA?si=TElKdcC1KXaANhOY)
-
-[![Teks Alt](https://img.youtube.com/vi/Y-rgoAdg7mA/0.jpg)](https://youtu.be/Y-rgoAdg7mA?si=TElKdcC1KXaANhOY)
-
-
 https://github.com/kikysr27/SQL-server-with-power-BI/assets/109866827/b13128de-6b5a-423b-8d69-b37c9c8e5861
 
