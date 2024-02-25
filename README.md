@@ -1,4 +1,7 @@
 # SQL-server-with-power-BI
+
+Click the image below to see the full story on youtube or link https://youtu.be/Y-rgoAdg7mA?si=TElKdcC1KXaANhOY
+
 [![YouTube Video](https://img.youtube.com/vi/Y-rgoAdg7mA/0.jpg)](https://youtu.be/Y-rgoAdg7mA?si=TElKdcC1KXaANhOY)
 
 
